@@ -1,4 +1,6 @@
-<h2 align="center">Hi</h2>
+<h3 align="center">Hi</h3>
+
+```javascript
 class stellinax {
     constructor() {
         this.name = "wish";
@@ -9,3 +11,4 @@ class stellinax {
 
 const memememe = new stellinax();
 console.log(memememe)
+```
