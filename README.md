@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stellina</h1>
+<h2 align="center">Hi</h2>
 class stellinax {
     constructor() {
         this.name = "wish";
